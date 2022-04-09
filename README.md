@@ -3,14 +3,9 @@
 ### Setup
 
 ```
-npm install or npm i
+run: npm install or npm i
 
-npm start
+run: npm start
 
-```
-
-node_modules/.bin/cypress open
-
-```
-
+run: node_modules/.bin/cypress open
 ```
