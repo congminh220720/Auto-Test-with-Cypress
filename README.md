@@ -4,11 +4,13 @@
 
 ```
 npm install or npm i
-```
 
 npm start
 
 ```
 
 node_modules/.bin/cypress open
+
+```
+
 ```
