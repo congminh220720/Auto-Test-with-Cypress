@@ -23,7 +23,7 @@ describe("Test Todo App", () => {
   });
 
   it("clear todo item", () => {
-    cy.get(".clear:first").click({ multiple: true });
+    cy.get(".clear:first").click();
     cy.get(listItem).should("have.length", 2);
   });
 });
